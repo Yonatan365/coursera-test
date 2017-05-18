@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages - my personal edition
 
 You can use the [editor on GitHub](https://github.com/Yonatan365/coursera-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
